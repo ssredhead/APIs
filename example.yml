@@ -1,0 +1,12 @@
+# Create a simple YAML document with two mappings. 
+# The first mapping should map the key human to the value trainer. 
+# The second mapping should map the key animals to a value that contains two nested mappings:
+# the first which maps the key elephant to the value circus
+# the second which maps the key horse to the value rodeo
+# Remember to end each mapping with a line break and indent your nested mappings 
+# by the same number of spaces!
+
+human: trainer
+animals:
+  elephant: circus
+  horse: rodeo
